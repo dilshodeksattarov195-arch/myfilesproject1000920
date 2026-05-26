@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingeecrypt",
+        "uuid": 6032440,
+        "checksum": "t0lpto"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
